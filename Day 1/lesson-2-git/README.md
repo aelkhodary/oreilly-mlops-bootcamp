@@ -15,7 +15,68 @@ By the end of this lab, you will:
 ## Prerequisites
 - A GitHub account
 - Git installed on your machine
+- Python 3.7 or higher installed on your machine
 - VSCode or any code editor of your choice
+
+## Python Environment Setup
+
+Before you start working with the project, it's recommended to set up a Python virtual environment to isolate project dependencies.
+
+### Step 1: Create a Virtual Environment
+
+Navigate to the project directory and create a virtual environment:
+
+```bash
+cd "/path/to/oreilly-mlops-bootcamp"
+python3 -m venv venv
+```
+
+**Expected Outcome:** A new directory called `venv` is created in your project folder.
+
+### Step 2: Activate the Virtual Environment
+
+**On macOS/Linux:**
+```bash
+source venv/bin/activate
+```
+
+**On Windows:**
+```bash
+venv\Scripts\activate
+```
+
+**Expected Outcome:** Your terminal prompt should now show `(venv)` at the beginning, indicating the virtual environment is active.
+
+### Step 3: Install Dependencies
+
+With the virtual environment activated, install the required packages:
+
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+**Expected Outcome:** All required packages (numpy, pandas, matplotlib, scikit-learn, joblib) are installed in your virtual environment.
+
+### Step 4: Verify Installation
+
+You can verify the installation by running:
+
+```bash
+pip list
+```
+
+This will show all installed packages in your virtual environment.
+
+### Deactivating the Virtual Environment
+
+When you're done working, you can deactivate the virtual environment:
+
+```bash
+deactivate
+```
+
+**Note:** You'll need to activate the virtual environment again each time you open a new terminal session to work on this project.
 
 ## Files
 - `app.py`: Script to train and evaluate the model.
@@ -99,15 +160,27 @@ git push origin main
 5. Go to GitHub and open a Pull Request
 
 ## How to Use
-1. Install dependencies:
+
+**Make sure your virtual environment is activated before running the following commands.**
+
+1. Activate the virtual environment (if not already activated):
+   ```bash
+   source venv/bin/activate  # macOS/Linux
+   # or
+   venv\Scripts\activate  # Windows
+   ```
+
+2. Install dependencies (if not already installed):
    ```bash
    pip install -r requirements.txt
    ```
-2. Run the model script:
+
+3. Run the model script:
    ```bash
    python app.py
    ```
-3. Use `git init`, `git add`, and `git commit` to version your changes.
+
+4. Use `git init`, `git add`, and `git commit` to version your changes.
 
 ## Final Summary
 In this hands-on, you successfully practiced the essential Git workflow: checking the repository status, staging modified files, committing changes with a clear message, and pushing updates to a remote GitHub repository. These are fundamental steps in version control that ensure your work is safely tracked, documented, and synchronized with collaborators. Mastering this workflow is crucial for maintaining clean, collaborative, and professional software projects.
