@@ -1,5 +1,7 @@
 # Hands-on: Git for Version Control in Machine Learning Projects
 
+# Test with class
+
 ## Objectives
 By the end of this lab, you will:
 - Install and configure Git
