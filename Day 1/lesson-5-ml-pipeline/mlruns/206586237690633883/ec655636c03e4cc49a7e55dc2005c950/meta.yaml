@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-5-ml-pipeline/mlruns/206586237690633883/ec655636c03e4cc49a7e55dc2005c950/artifacts
+end_time: 1762192900128
+entry_point_name: ''
+experiment_id: '206586237690633883'
+lifecycle_stage: active
+run_id: ec655636c03e4cc49a7e55dc2005c950
+run_name: sincere-trout-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762192868230
+status: 3
+tags: []
+user_id: aelkhodary

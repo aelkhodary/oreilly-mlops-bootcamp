@@ -10,7 +10,7 @@ columns = [
     "native-country", "income"
 ]
 
-data = pd.read_csv("data/adult.data", header=None, names=columns, na_values=" ?")
+data = pd.read_csv("/Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day 1/lesson-6-ci-cd/data/adult.data", header=None, names=columns, na_values=" ?")
 print("data shape : ", data.shape)
 print(data.head(5))
 

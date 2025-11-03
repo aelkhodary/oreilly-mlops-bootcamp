@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-5-ml-pipeline/mlruns/206586237690633883/ebf1eda4e80844bb9f9cb0ebfda15971/artifacts
+end_time: 1762192753174
+entry_point_name: ''
+experiment_id: '206586237690633883'
+lifecycle_stage: active
+run_id: ebf1eda4e80844bb9f9cb0ebfda15971
+run_name: loud-foal-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762192721028
+status: 3
+tags: []
+user_id: aelkhodary

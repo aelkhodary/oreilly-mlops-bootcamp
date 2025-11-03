@@ -1,0 +1,22 @@
+artifact_path: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-5-ml-pipeline/mlruns/206586237690633883/models/m-d23a392ae5364c049c59df242da93cc4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-d23a392ae5364c049c59df242da93cc4
+model_size_bytes: 85468886
+model_uuid: m-d23a392ae5364c049c59df242da93cc4
+prompts: null
+run_id: ec655636c03e4cc49a7e55dc2005c950
+utc_time_created: '2025-11-03 18:01:35.017661'

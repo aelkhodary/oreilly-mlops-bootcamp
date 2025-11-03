@@ -1,0 +1,10 @@
+artifact_location: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-5-ml-pipeline/mlruns/206586237690633883/models/m-d23a392ae5364c049c59df242da93cc4/artifacts
+creation_timestamp: 1762192894977
+experiment_id: '206586237690633883'
+last_updated_timestamp: 1762192900115
+model_id: m-d23a392ae5364c049c59df242da93cc4
+model_type: null
+name: model
+source_run_id: ec655636c03e4cc49a7e55dc2005c950
+status: 2
+status_message: null
