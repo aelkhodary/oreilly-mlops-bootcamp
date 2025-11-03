@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-3-mlflow/mlruns/857643420403235916/9a10e4b0cc1246a8bd4b3e9fc81eecc0/artifacts
+end_time: 1762186165919
+entry_point_name: ''
+experiment_id: '857643420403235916'
+lifecycle_stage: active
+run_id: 9a10e4b0cc1246a8bd4b3e9fc81eecc0
+run_name: debonair-mouse-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762186160129
+status: 3
+tags: []
+user_id: aelkhodary

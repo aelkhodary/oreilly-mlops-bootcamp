@@ -1,0 +1,10 @@
+artifact_location: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-3-mlflow/mlruns/857643420403235916/models/m-8a23c4c115a843cd98f29500c0ae202c/artifacts
+creation_timestamp: 1762186494350
+experiment_id: '857643420403235916'
+last_updated_timestamp: 1762186499577
+model_id: m-8a23c4c115a843cd98f29500c0ae202c
+model_type: null
+name: model
+source_run_id: 64b44c35955b4dccad538cd8586ef57b
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-3-mlflow/mlruns/857643420403235916/64b44c35955b4dccad538cd8586ef57b/artifacts
+end_time: 1762186499582
+entry_point_name: ''
+experiment_id: '857643420403235916'
+lifecycle_stage: active
+run_id: 64b44c35955b4dccad538cd8586ef57b
+run_name: bald-chimp-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762186494303
+status: 3
+tags: []
+user_id: aelkhodary

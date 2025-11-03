@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-3-mlflow/mlruns/857643420403235916/19740f86c94f4dc2835a15cdfaf2385d/artifacts
+end_time: 1762187085753
+entry_point_name: ''
+experiment_id: '857643420403235916'
+lifecycle_stage: active
+run_id: 19740f86c94f4dc2835a15cdfaf2385d
+run_name: zealous-toad-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762187079943
+status: 3
+tags: []
+user_id: aelkhodary

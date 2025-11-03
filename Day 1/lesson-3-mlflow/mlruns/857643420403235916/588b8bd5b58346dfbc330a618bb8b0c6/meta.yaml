@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aelkhodary/Documents/GitHub/oreilly-mlops-bootcamp/Day%201/lesson-3-mlflow/mlruns/857643420403235916/588b8bd5b58346dfbc330a618bb8b0c6/artifacts
+end_time: 1762186444073
+entry_point_name: ''
+experiment_id: '857643420403235916'
+lifecycle_stage: active
+run_id: 588b8bd5b58346dfbc330a618bb8b0c6
+run_name: wistful-yak-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762186438530
+status: 3
+tags: []
+user_id: aelkhodary
