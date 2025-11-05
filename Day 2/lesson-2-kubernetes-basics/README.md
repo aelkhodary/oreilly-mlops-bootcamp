@@ -64,5 +64,12 @@ This lesson demonstrates how to deploy a pre-built age detection model (served v
 
 
 
+## My Notes
+```
+docker build -t age-detect:latest .
+kubectl apply -f k8s-deployment.yml
 
+kubectl get pods
+kubectl get services
+```
 
